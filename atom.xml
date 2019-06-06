@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-03-13T05:17:23.284Z</updated>
+  <updated>2019-03-13T11:56:05.663Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hexo教程</title>
+    <link href="http://yoursite.com/2019/03/13/Hexo%E6%95%99%E7%A8%8B/"/>
+    <id>http://yoursite.com/2019/03/13/Hexo教程/</id>
+    <published>2019-03-13T11:54:01.000Z</published>
+    <updated>2019-03-13T11:56:05.663Z</updated>
+    
+    <summary type="html">
+    
+      你對本頁的描述 可以省略
+    
+    </summary>
+    
+      <category term="Hexo教程" scheme="http://yoursite.com/categories/Hexo%E6%95%99%E7%A8%8B/"/>
+    
+    
+      <category term="标签1" scheme="http://yoursite.com/tags/%E6%A0%87%E7%AD%BE1/"/>
+    
+      <category term="标签2" scheme="http://yoursite.com/tags/%E6%A0%87%E7%AD%BE2/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
